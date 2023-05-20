@@ -53,6 +53,8 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 
 </details>
 
+
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -277,6 +279,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 </details>
+  
+  # Tips
 
 <!--
   <<< Author notes: Footer >>>
