@@ -281,6 +281,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 </details>
   
   # Tips
+  
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
   <<< Author notes: Footer >>>
